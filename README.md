@@ -2,17 +2,6 @@
 
 Welcome to the AI-Powered Image Recognition and Captioning System project! This project allows you to automatically recognize objects in images and generate descriptive captions for them using state-of-the-art deep learning models.
 
-![Demo](demo.png)
-
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
